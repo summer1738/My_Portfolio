@@ -14,8 +14,7 @@ export const profile = {
   githubUser: "summer1738",
   location: "Harare, Zimbabwe",
   linkedin: "https://www.linkedin.com/in/lester-l-kandekande-b981bb317/",
-  /** Public PDF in `/public`, e.g. `/resume.pdf` — add the file under `public/` first */
-  resumeUrl: null as string | null,
+  resumeUrl: "/lester-cosultant-cv.pdf",
 };
 
 export const skillGroups = [
